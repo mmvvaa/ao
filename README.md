@@ -1,7 +1,7 @@
 # ao -- a decentralized governance model for running an autonomous organziation with shared resources
 
 
-Webserver and backend for Autonomous Organization: bitcoin enabled flat hierarchy, community ownership. To setup follow the instructions at (https://github.com/dctrl-ao/ao/blob/master/INSTALL.md).
+Webserver and backend for Autonomous Organization: bitcoin enabled flat hierarchy, community ownership. To setup follow the instructions at (https://github.com/dctrl-ao/ao/tree/master/install).
 
 The aim is to provide fully transparent management of commons space and resources. It provides a user interface to see and create current members. Each member is given a fob that can be scanned by raspberry pi based readers. Members are required to keep there account up to date to maintain access.
 
